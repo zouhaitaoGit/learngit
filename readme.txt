@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creat a new branch is quick.
 Creat a new branch is quick AND simple.
 Creat a new branch is dev.
-I am master test
+I am a test dev
